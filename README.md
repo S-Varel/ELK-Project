@@ -5,7 +5,7 @@ A jump box was used to restrict this to e IP addresses that communicate to the j
 
 ## ELK Stack Diagram
 
-![] ()
+![] (Elk Project Diagram.png)
 
 
 
@@ -19,6 +19,7 @@ Created a Peer connection between the vNets to allow traffic to pass through the
 Created a new VM (ELK Server)-connected the ELK server to the ansible container using the public key. 
 
 Created ELK Ansible playbook to install 
-	docker.io
-	python3-pip
-	docker
+	*docker.io
+	*python3-pip
+	*docker
+
