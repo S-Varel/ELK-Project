@@ -26,5 +26,13 @@ See ELK ansible playbook [here](https://github.com/S-Varel/ELK-Project/blob/main
 
 Created an Ansible Host yml file to identify the IP addresses used to connect the webservers and the ELK server
 
-See Ansible Host.ym [here}(
+See Ansible Host.ym [here](https://github.com/S-Varel/ELK-Project/blob/main/Host.yml)
+
+Created rules for the ELK-VM-NSG (network security group)
+	Since the ELK server runs on port 5601 created a rule to allow the TCP traffic from my IP address over port 5601.  
+
+Installed Filebeat on the DVWA Container
+The filebeat book installs the Linux Filebeat instructions to download and install the .deb file. The playbook will enable, setup and start the filebeat modules. 
+
+See Filebeat-Playbook [here](
 
