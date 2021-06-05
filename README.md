@@ -8,7 +8,6 @@ A jump box was used to restrict this to e IP addresses that communicate to the j
 ![] (ELK Project Diagram.png)
 
 
-
 The files in this repository were used to configure the network.
 
 
