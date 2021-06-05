@@ -5,7 +5,7 @@ A jump box was used to restrict this to e IP addresses that communicate to the j
 
 ## ELK Stack Diagram
 
-![] (Elk Project Diagram.png)
+![] (ELK Project Diagram.png)
 
 
 
