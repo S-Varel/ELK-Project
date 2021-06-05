@@ -34,5 +34,5 @@ Created rules for the ELK-VM-NSG (network security group)
 Installed Filebeat on the DVWA Container
 The filebeat book installs the Linux Filebeat instructions to download and install the .deb file. The playbook will enable, setup and start the filebeat modules. 
 
-See Filebeat-Playbook [here](
+See Filebeat-Playbook [here](https://github.com/S-Varel/ELK-Project/blob/main/Filebeat-Playbook.yml)
 
