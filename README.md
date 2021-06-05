@@ -4,8 +4,7 @@ The main purpose of this network is to configure an ELK stack server and monitor
 A jump box was used to restrict this to e IP addresses that communicate to the jomp box and it helps to prevent the azure virtual machines from being exposed to the public. 
 
 ## ELK Stack Diagram
-
-![](ELK Project Diagram.png)
+ ![] (ELK Project Diagram.png)
 
 
 The files in this repository were used to configure the network.
