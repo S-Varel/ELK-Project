@@ -22,5 +22,9 @@ Created ELK Ansible playbook to install
 	*python3-pip
 	*docker
 
-See ELK ansible playbook [here](
+See ELK ansible playbook [here](https://github.com/S-Varel/ELK-Project/blob/main/ELK.yml)
+
+Created an Ansible Host yml file to identify the IP addresses used to connect the webservers and the ELK server
+
+See Ansible Host.ym [here}(
 
