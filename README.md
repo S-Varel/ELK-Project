@@ -37,3 +37,28 @@ The filebeat book installs the Linux Filebeat instructions to download and insta
 See Filebeat-Playbook [here](https://github.com/S-Varel/ELK-Project/blob/main/Filebeat-Playbook.yml)
 
 Once the filebeat installation was successfully run the ELK Stack successfully received logs.
+
+See Kibana screen shots of showing successful execution of the filebeat and the system logs generated [here](
+
+
+### Configuration details
+For each VM
+
+|Name    |Funcion    | IP Address| Operating System|
+|--------|-----------|-----------|-----------------|
+|ELK-VM  | ELK Server| 10.2.0.4  | Linux           |
+|Jump Box| Jump Box  | 10.1.0.4  | Linux           |
+|Web1-1  | Web Server| 10.1.0.5  | Linux           |
+|Web2-1  | Web Server| 10.1.0.6	 | Linux           |
+
+### Access Policies
+ The access policies 
+ |Name      | Publicly Accessible   | Allowed IP Addresses    |
+ |----------|-----------------------|-------------------------|
+ |ELK-VM    | No                    | 10.0.0.0/24             |
+ |Jump Box  | No                    | 10.1.0.5  10.1.0.6      |
+ |Web1-1    | Yes                   | 10.1.0.5                |
+ |Web2-1    | Yes                   | 10.1.0.5                |
+ 
+
+
