@@ -38,7 +38,10 @@ See Filebeat-Playbook [here](https://github.com/S-Varel/ELK-Project/blob/main/Fi
 
 Once the filebeat installation was successfully run the ELK Stack successfully received logs.
 
-See Kibana screen shots of showing successful execution of the filebeat and the system logs generated [here](https://github.com/S-Varel/ELK-Project/blob/main/ELK%20Stack%20Successful%20Run.docx)
+## Kibana Screen Shots
+See Kibana screen shots of showing successful execution of the filebeat and the system logs generated
+![](https://github.com/S-Varel/ELK-Project/blob/main/ELK%20Stack%20Successful%20Run.pdf)
+
 
 
 ### Configuration details
