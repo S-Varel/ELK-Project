@@ -1,6 +1,6 @@
 # ELK-Project
 
-The main purpose of this network is to configure an ELK stack server and monitor the system.  The newtork included a  load balanced.  Load balancing ensures that the application will be highly accessible, in addition to restricting access to the network. 
+The main purpose of this network is to configure an ELK stack server and monitor the system.  The newtork included a  load balancer.  Load balancing ensures that the application will be highly accessible, in addition to restricting access to the network. 
 A jump box was used to restrict the IP addresses that communicate to the jump box and it helps to prevent the Azure virtual machines from being exposed to the public. 
 
 ## ELK Stack Diagram
